@@ -1,0 +1,6 @@
+sensor:
+  - platform: duinocoin
+    username: "inikomatthew"
+
+sensor.duco_balance:
+  entity_picture: $HOME/img/duino.jpg
